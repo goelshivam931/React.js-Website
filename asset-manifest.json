@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactjsWebsite/static/css/main.cc995375.chunk.css",
+    "main.js": "/ReactjsWebsite/static/js/main.95bc6946.chunk.js",
+    "main.js.map": "/ReactjsWebsite/static/js/main.95bc6946.chunk.js.map",
+    "runtime-main.js": "/ReactjsWebsite/static/js/runtime-main.63c9601b.js",
+    "runtime-main.js.map": "/ReactjsWebsite/static/js/runtime-main.63c9601b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ReactjsWebsite/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f1098ec2.chunk.js": "/ReactjsWebsite/static/js/2.f1098ec2.chunk.js",
+    "static/js/2.f1098ec2.chunk.js.map": "/ReactjsWebsite/static/js/2.f1098ec2.chunk.js.map",
+    "static/js/3.83e5f293.chunk.js": "/ReactjsWebsite/static/js/3.83e5f293.chunk.js",
+    "static/js/3.83e5f293.chunk.js.map": "/ReactjsWebsite/static/js/3.83e5f293.chunk.js.map",
+    "index.html": "/ReactjsWebsite/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ReactjsWebsite/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.cc995375.chunk.css.map": "/ReactjsWebsite/static/css/main.cc995375.chunk.css.map",
+    "static/js/2.f1098ec2.chunk.js.LICENSE.txt": "/ReactjsWebsite/static/js/2.f1098ec2.chunk.js.LICENSE.txt",
+    "static/media/balling.168b2136.svg": "/ReactjsWebsite/static/media/balling.168b2136.svg",
+    "static/media/blackpuppy.51042953.jpg": "/ReactjsWebsite/static/media/blackpuppy.51042953.jpg",
+    "static/media/boat.09005b04.svg": "/ReactjsWebsite/static/media/boat.09005b04.svg",
+    "static/media/teddy.da3ef876.svg": "/ReactjsWebsite/static/media/teddy.da3ef876.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63c9601b.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f1098ec2.chunk.js",
+    "static/css/main.cc995375.chunk.css",
+    "static/js/main.95bc6946.chunk.js"
+  ]
+}
